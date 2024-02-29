@@ -1,0 +1,67 @@
+.login_page {
+    background: #F1F3F4;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login_box {
+    width: 400px;
+    background: #fff;
+    border-radius: 11px;
+    box-shadow: 5px 5px 26px -4px rgba(27, 117, 187, 0.07), -5px -5px 26px -4px rgba(27, 117, 187, 0.07);
+    padding: 40px 20px;
+}
+.login_box .login_hdng {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.login_box h2 {
+    color: #1B75BB;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.login_box .form_group {
+    margin-bottom: 20px;
+}
+.login_box .form_check {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+}
+.login_box .form_check label {
+    color: #6F6F6F;
+    font-size: 16px;
+}
+.login_box .form_group label {
+    color: #6F6F6F;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.login_box .form_group input {
+    border: 1px solid #D9D9D9;
+    background: #FFF;
+    padding: 0 20px;
+    height: 50px;
+    width: 100%;
+    color: #919294;
+    font-size: 14px;
+    outline: 0;
+}
+.login_box .form_group input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+}
+.login_box .form_btn button {
+    border-radius: 4px;
+    height: 45px;
+    padding: 0 40px;
+    border: 0;
+    background: #1E783C;
+    color: #fff;
+}

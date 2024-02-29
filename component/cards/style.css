@@ -1,0 +1,15 @@
+.card-body {
+    flex-wrap: inherit;
+    flex: auto;
+}
+.card-body div {
+    width: 50%;
+}
+.card-body .right {
+    text-align: right;
+}
+.card-body .right p {
+    margin: 0;
+    font-size: 12px;
+    color: #5F6368;
+}

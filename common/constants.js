@@ -1,0 +1,5 @@
+export const SUPER_ADMIN = "Super_admin"  
+export const ADMIN = "Admin"  
+export const ADVERTISER = "Advertiser"  
+export const CUSTOMER = "Customer"
+export const GOOGLE_API_KEY = "AIzaSyBjCJAL9fp74ImWDKms0eFFWfMc0wmUIs0"  
